@@ -22,7 +22,8 @@
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
 
-  <!-- About SparkOS -->
-    <string name="spark_maintainer">Sheikh Faisal</string>
+<!-- Add Maintainer Name -->
 
+    <string name="build_maintainer_summary">AashiQ.exe</string>
+     
 </resources>
